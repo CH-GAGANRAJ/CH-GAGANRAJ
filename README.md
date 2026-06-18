@@ -1,5 +1,6 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Gagan%20Raj%20Chinka&fontSize=46&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20LLMs%20|%20Agents%20|%20Knowledge%20Graphs&descAlignY=65&descSize=18)
 
 <a href="https://www.linkedin.com/in/chinka-gagan-raj/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
